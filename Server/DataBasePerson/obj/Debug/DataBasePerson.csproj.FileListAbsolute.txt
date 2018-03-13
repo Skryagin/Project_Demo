@@ -1,0 +1,52 @@
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.dll.config
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.pdb
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.SqlServer.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.xml
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.SqlServer.xml
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.csprojResolveAssemblyReference.cache
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.dll.config
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.SqlServer.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.xml
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.SqlServer.xml
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.csprojResolveAssemblyReference.cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.pdb
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.dll.config
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.pdb
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.xml
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.csprojResolveAssemblyReference.cache
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.pdb
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.dll.config
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.pdb
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.SqlServer.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.xml
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.SqlServer.xml
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.csprojResolveAssemblyReference.cache
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.csproj.CoreCompileInputs.cache
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.pdb
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.dll.config
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\DataBasePerson.pdb
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\DataBasePerson\obj\Debug\DataBasePerson.pdb

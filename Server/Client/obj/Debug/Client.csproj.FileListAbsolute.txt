@@ -1,0 +1,238 @@
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\bin\Debug\Client.exe.config
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\bin\Debug\Client.exe
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\bin\Debug\Client.pdb
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\MainWindow.g.cs
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\App.g.cs
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\Client_MarkupCompile.cache
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\Client_MarkupCompile.lref
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\MainWindow.baml
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\Client.g.resources
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\Client.Properties.Resources.resources
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\Client.exe
+D:\k1rya\Network Programming\Lesson 4\Messege\Server\Client\obj\Debug\Client.pdb
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\Client.exe.config
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\Client.exe
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\Client.pdb
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\App.g.cs
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.cache
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.lref
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\Client.g.resources
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\Client.exe
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\Client.pdb
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.g.cs
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.baml
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\Contract.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\Contract.pdb
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.xml
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\Client.exe.config
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\Client.exe
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\Client.pdb
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\Client.exe
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\Client.pdb
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\Contract.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\Contract.pdb
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.xml
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.g.cs
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\App.g.cs
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.cache
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.lref
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.baml
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\Client.g.resources
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\Client.Properties.Resources.resources
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\Client.exe.config
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\Client.exe
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\Client.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\Contract.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\Contract.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.xml
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.g.cs
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\App.g.cs
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.lref
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.baml
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\Client.g.resources
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\Client.exe
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Client\obj\Debug\Client.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\Client.exe.config
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\Client.exe
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\Client.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\Contract.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\Contract.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.xml
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.g.cs
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\App.g.cs
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.lref
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.baml
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\Client.g.resources
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\Client.exe
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Client\obj\Debug\Client.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\Client.exe.config
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\Client.exe
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\Client.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\Contract.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\Contract.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.xml
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.g.cs
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\App.g.cs
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.lref
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.baml
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\Client.g.resources
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\Client.exe
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Client\obj\Debug\Client.pdb
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Client.exe.config
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Client.exe
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Client.pdb
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Contract.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Contract.pdb
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.xml
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.g.cs
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\App.g.cs
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.cache
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.lref
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.baml
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.g.resources
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.Properties.Resources.resources
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.exe
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.pdb
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Client.exe.config
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.exe
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.pdb
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Client.exe
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Client.pdb
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Contract.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Contract.pdb
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.xml
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.g.cs
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\App.g.cs
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.cache
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.lref
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.baml
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.g.resources
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.Properties.Resources.resources
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Contract.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\Contract.pdb
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.g.cs
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\View\MainWindow.baml
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.g.resources
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\CHAT COPY ver2.6\Project Chat\Messege\Server\Client\obj\Debug\Client.pdb

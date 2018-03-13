@@ -1,0 +1,210 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        Title="Chat" Height="500" Width="800">
+    <Window.DataContext>
+        <local:ViewModel></local:ViewModel>
+    </Window.DataContext>
+    <Window.Background>
+        <ImageBrush ImageSource="{Binding BackgroundWindow}"></ImageBrush>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="99*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="199*"/>
+            <ColumnDefinition Width="18*"/>
+            <ColumnDefinition Width="80*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox  Background="LightCyan" Margin="20 50 0 50"  ItemsSource="{Binding StringsUsers}" SelectedItem="{Binding Path=SelectedString}" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBlock FontSize="18"   Text="{Binding Login}"></TextBlock>
+                        <Button Margin="10 0" FontSize="18" Height="20" Width="20" Background="{Binding GetLoginColor}">
+                        </Button>
+                    </WrapPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <i:InvokeCommandAction Command="{Binding InterlocutorChoice}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </ListBox>
+        
+        <!--// тут-->
+        <Button  Background="LightCyan" FontWeight="Bold" Height="20" Width="150"  VerticalAlignment="Bottom" Margin="15 0 0 26" Command="{Binding CREATEGROUP}"> CREATE GROUP</Button>
+        <Button  Background="LightCyan" FontWeight="Bold" Height="20" Width="150"  VerticalAlignment="Bottom" Margin="15 0 0 2" Command="{Binding ADDPERSONINGROUP}">ADD PERSON GROUP</Button>
+        <TextBox Height="20" Width="150" VerticalAlignment="Bottom" TextAlignment="Center" Margin="15 0 0 2" Visibility="{Binding _ButtonCreateVisible}" Text="{Binding stringCreateGroup}" ></TextBox>
+
+        <ListBox Background="LightCyan" Grid.Column="2" VerticalAlignment="Top" Margin="-280 80 0 0" Height="150" Width="200" Grid.ColumnSpan="3" ItemsSource="{Binding Group}" SelectedItem="{Binding _GROUP}" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBlock FontSize="18"   Text="{Binding Login}"></TextBlock>
+                        <Button Margin="10 0" FontSize="18" Height="20" Width="20" Background="{Binding GetLoginColor}">
+                        </Button>
+                    </WrapPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <i:InvokeCommandAction Command="{Binding GROUPCHOISE}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </ListBox>
+        <Label Foreground="White" Grid.Column="2" FontSize="20" FontWeight="Bold" VerticalAlignment="Top" Margin="-300 40 0 0" Grid.ColumnSpan="3" Height="40" Width="100">GROUP</Label>
+
+
+        <ListBox Background="LightCyan" Grid.Column="2"  VerticalAlignment="Top" Margin="190 80 0 0" Height="150" Width="200" Grid.ColumnSpan="3" ItemsSource="{Binding People}" SelectedItem="{Binding _PEOPLE}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <WrapPanel>
+                        <TextBlock FontSize="18"   Text="{Binding Login}"></TextBlock>
+                        <Button Margin="10 0" FontSize="18" Height="20" Width="20" Background="{Binding GetLoginColor}">
+                        </Button>
+                    </WrapPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate> 
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <i:InvokeCommandAction Command="{Binding PEOPLECHOISE}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </ListBox>
+        <Label Foreground="White" Grid.Column="2" FontSize="20" FontWeight="Bold"  VerticalAlignment="Top" Margin="100 40 0 0" Grid.ColumnSpan="3" Height="40" Width="100">PEOPLE</Label>
+        <Label Foreground="White" Grid.Column="2" FontSize="20" FontWeight="Bold" VerticalAlignment="Top" Margin="-400 250 0 0" Grid.ColumnSpan="3" Height="40" Width="100">GROUP</Label>
+        <TextBlock Background="White" Foreground="Black"   Grid.Column="2" FontSize="30" Margin="-100 250 0 0" FontWeight="Bold" VerticalAlignment="Top"  Grid.ColumnSpan="3" TextAlignment="Center" Height="40" Width="200" Text="{Binding StringGroupText}" ></TextBlock>
+
+        <Label Foreground="White" Grid.Column="2" FontSize="20" FontWeight="Bold" VerticalAlignment="Top" Margin="-400 300 0 0" Grid.ColumnSpan="3" Height="40" Width="100">PEOPLE</Label>
+        <TextBlock Background="White" Foreground="Black"   Grid.Column="2" FontSize="30" Margin="-100 300 0 0" FontWeight="Bold" VerticalAlignment="Top"  Grid.ColumnSpan="3" TextAlignment="Center" Height="40" Width="200" Text="{Binding StringPeopleText}" ></TextBlock>
+        <Button Height="40" Background="White" Width="80" Foreground="Black" Grid.Column="2" FontSize="20" FontWeight="Bold" VerticalAlignment="Top" Margin="200 250 0 0" Grid.ColumnSpan="3" Command="{Binding OKGR}">OK</Button>
+        <Button Height="40" Background="White" Width="80" Foreground="Black" Grid.Column="2" FontSize="20" FontWeight="Bold" VerticalAlignment="Top" Margin="200 300 0 0" Grid.ColumnSpan="3" Command="{Binding CANCELGR}">CANCEL</Button>
+
+
+        <TextBlock   VerticalAlignment="Top" Margin=" 20 28" Height="20" Width="100" TextAlignment="Center" Text="{Binding _Login}" Background="White" FontWeight="Bold"></TextBlock>
+        <ListBox  Background="LightCyan" Grid.Column="2" Visibility="{Binding LISTHIDDEN}"  Margin="50" Grid.ColumnSpan="3" ItemsSource="{Binding MessegeChat}" SelectedItem="{Binding SelectedSms}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical">
+
+                        <TextBlock Text="{Binding kLogin}" FontSize="12" >
+                        </TextBlock>
+                        <TextBlock Text="{Binding Date}" FontSize="12" >
+                        </TextBlock>
+                        <TextBlock Text="{Binding Message}" FontSize="12" >
+                        </TextBlock>
+                        <Image  Width="28" Height="28" Stretch="UniformToFill" Source="{Binding Way}"></Image>
+                    </StackPanel>
+
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <ListBox  Grid.Column="2" Margin="50 0 0 0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Grid.ColumnSpan="3" ItemsSource="{Binding Strings}" SelectedItem="{Binding SMILES}"  Height="40" Width="180" Visibility="{Binding SMILEVISIBLE}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Image  Width="28" Height="28" Stretch="UniformToFill" Source="{Binding Way}"></Image>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel></WrapPanel>
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="MouseDoubleClick">
+                    <i:InvokeCommandAction Command="{Binding SMILE2}" />
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </ListBox>
+        <StackPanel Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Bottom" Grid.ColumnSpan="3" >
+            <Button  Height="30" Width="120" Margin="0 40 0 0" Background="LightYellow" FontWeight="Bold"  Visibility="{Binding ButtonSave}" Command="{Binding SaveFile}" Content="FILE SAVE">
+            </Button>
+        </StackPanel>
+
+
+
+        <TextBlock VerticalAlignment="Top" Margin=" 0 25" Height="20" Width="100" TextAlignment="Center" Text="{Binding NICKNAME}" Background="White" FontWeight="Bold" Grid.Column="2" Grid.ColumnSpan="3"></TextBlock>
+        <Button Grid.Row="1" Margin="1,20,357,20"  Width="40" Grid.Column="2" Command="{Binding SendFile}">
+            <Button.Background>
+                <ImageBrush ImageSource="{Binding ButtonOpenBackground}"></ImageBrush>
+            </Button.Background>
+        </Button>
+
+        <Button Background="LightCyan" FontWeight="Bold" Grid.Row="1" Height="20" Width="150"   Margin="15 0 0 2" Visibility="{Binding _ButtonCreateVisible}" Command="{Binding CREATEGROUPOK}">OKEY</Button>
+        <Button Background="LightCyan" FontWeight="Bold" Grid.Row="1" Height="20" Width="150"   Margin="15 -46 0 2" Command="{Binding DELETEGROUP}"  >REMOVE FROM GROUP</Button>
+       
+        <DockPanel Grid.Column="2" Grid.Row="1" Margin="40 20 40 10" Grid.ColumnSpan="3">
+
+
+            
+            
+            <Button DockPanel.Dock="Left" Margin="10,0,10,10" Width="40" Command="{Binding SMILE}" >
+                <Button.Background>
+                    <ImageBrush ImageSource="{Binding ButtonSmileBackground}"></ImageBrush>
+                </Button.Background>
+            </Button>
+
+            <Button DockPanel.Dock="Right" Margin="0,0,10,10" Height="30" Width="70" Command="{Binding SendMessege}">
+                <Button.Background>
+                    <ImageBrush ImageSource="{Binding ButtonSendBackground}"></ImageBrush>
+                </Button.Background>
+
+            </Button>
+            <TextBox FontSize="20" Background="LightCyan" Margin="0 0 10 10" Text="{Binding Text}"></TextBox>
+        </DockPanel>
+        
+        <StackPanel  Margin="20" Grid.RowSpan="2"  Grid.ColumnSpan="5"  Visibility="{Binding _Visible}">
+            <Grid >
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+
+                </Grid.ColumnDefinitions>
+                <StackPanel  Margin="0 80 0 0" Grid.Row="0" >
+                    <Label HorizontalAlignment="Center" Content="Login" Width="80" Foreground="White" FontWeight="Bold" FontSize="20"></Label>
+                    <TextBox FontSize="20" HorizontalAlignment="Center" Height="30" Width="150" Text="{Binding _Login}"></TextBox>
+                   
+                </StackPanel >
+
+                <StackPanel Margin="0 60 0 0" Grid.Row="1" >
+                    <Button Margin="150 -50 150 0" Height="50" Width="120" Command="{Binding LOGIN}"  Foreground="White" FontWeight="Bold" FontSize="20">
+                        <Button.Background>
+                            <ImageBrush ImageSource="{Binding BackroundLogin}"></ImageBrush>
+                        </Button.Background>
+                    
+                    </Button>
+                    <TextBlock Foreground="Red" FontSize="30"  Margin="0 30 0 0" Height="50" Width="650" Text="{Binding _EROR}"></TextBlock>
+
+                </StackPanel>
+            </Grid>
+
+            <StackPanel.Background>
+                <ImageBrush ImageSource="{Binding BackgroundWindow}"></ImageBrush>
+            </StackPanel.Background>
+
+        </StackPanel>
+
+        
+
+    </Grid>
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Closing">
+            <i:InvokeCommandAction Command="{Binding WindowClosing}" />
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+</Window>

@@ -1,0 +1,36 @@
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Contract\bin\Debug\Contract.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Contract\bin\Debug\Contract.pdb
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Contract\obj\Debug\Contract.dll
+C:\С++\С#\Network Programming\Project Chat\Messege\Server\Contract\obj\Debug\Contract.pdb
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Contract\bin\Debug\Contract.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Contract\bin\Debug\Contract.pdb
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Contract\obj\Debug\Contract.dll
+D:\k1rya\CHAT COPY ver2.2\Project Chat\Messege\Server\Contract\obj\Debug\Contract.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Contract\bin\Debug\Contract.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Contract\bin\Debug\Contract.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Contract\obj\Debug\Contract.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.3\Project Chat\Messege\Server\Contract\obj\Debug\Contract.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Contract\bin\Debug\Contract.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Contract\bin\Debug\Contract.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Contract\obj\Debug\Contract.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.4\Project Chat\Messege\Server\Contract\obj\Debug\Contract.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Contract\bin\Debug\Contract.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Contract\bin\Debug\Contract.pdb
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Contract\obj\Debug\Contract.dll
+C:\С++\С#\Network Programming\CHAT COPY ver2.5\Project Chat\Messege\Server\Contract\obj\Debug\Contract.pdb
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\bin\Debug\Contract.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\bin\Debug\Contract.pdb
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\obj\Debug\Contract.dll
+D:\C#\NETWORK PROGRAMMING\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\obj\Debug\Contract.pdb
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\bin\Debug\Contract.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\bin\Debug\Contract.pdb
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\obj\Debug\Contract.dll
+E:\CHAT COPY ver2.6\Project Chat\Messege\Server\Contract\obj\Debug\Contract.pdb
